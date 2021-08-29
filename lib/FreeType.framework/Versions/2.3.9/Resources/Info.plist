@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>FreeType</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg</string>
+	<key>CFBundleGetInfoString</key>
+	<string>http://www.freetype.org</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.freetype.FreeType</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>FreeType</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.3.9</string>
+	<key>CFBundleVersion</key>
+	<string>2.3.9</string>
+	<key>Bundle maintainer</key>
+	<string>Jardel Weyrich &lt;jweyrich@gmail.com&gt;</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+</dict>
+</plist>
